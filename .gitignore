@@ -1,2 +1,27 @@
 project.txt
 .env
+
+# Python virtual environments
+darkweb/
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Distribution / packaging
+*.egg-info/
+dist/
+build/
+
+# Node modules (for frontend)
+node_modules/
+
+# IDEs
+.vscode/
+.idea/
