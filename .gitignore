@@ -25,3 +25,7 @@ node_modules/
 # IDEs
 .vscode/
 .idea/
+
+# Generated SentencePiece model files
+*.model
+*.vocab
